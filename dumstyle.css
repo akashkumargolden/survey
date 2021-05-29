@@ -1,0 +1,108 @@
+body{
+    background:url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+background-size: cover;
+background-attachment: fixed;
+}
+    
+form{
+   
+    width: auto;
+    padding:5px;
+    font-size:17px;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: left;
+}
+
+input{
+    width: 500px; 
+    padding: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-color:rgba(27, 27, 50, 0.8);
+    border-width:1px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.comment{
+    text-align: left;
+    width: 500px;
+    height: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-color:rgba(27, 27, 50, 0.8);
+    border-width:1px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+select{
+    width: 530px;
+    padding: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-color:rgba(27, 27, 50, 0.8);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+}
+.back{
+    background-color: rgba(22, 19, 219, 0.4);
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top:0px;
+    left:0px;
+}
+
+.akash{
+   background-color:rgba(10, 10, 226, 0.301);
+   opacity: .7;
+   height:100%;
+   width:100%;
+}
+.heading{
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    padding-top: 30px;
+    text-align: center;
+    color:white;
+    position: relative;
+}
+.fo{
+    padding: 25px 0px 25px 0px;
+    line-height: 2;
+    background-color:rgba(27, 27, 50, 0.8);
+    margin:auto;
+    height:auto;
+     width: 700px;
+    font-size: 20px;
+    font-family:'Poppins', sans-serif;
+    color:white;
+    position: relative;
+    border-radius: 2px;
+}
+.fon{
+
+    padding:45px;
+}
+button{
+    background-color:  #37af65;
+    width:530px;
+    padding:5px;
+    font-size:17px;
+    font-family:'Poppins', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.4;
+    margin-left: 40px;
+    color: white;
+    margin-right: 40px;;
+   }
+#abc{
+    width: inherit;
+    position: relative;
+  
+}
